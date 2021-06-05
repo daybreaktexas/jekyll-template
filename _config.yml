@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: your title
-email: your@email.com
+email: 1342978349@qq.comm
 description: > # this means to ignore newlines until "baseurl:"
-  your description
-baseurl: "/jekyll-template" # the subpath of your site, e.g. /blog
-url: "https://zhoukekestar.github.io" # the base hostname & protocol for your site
-twitter_username: zhoukekestar
-github_username:  zhoukekestar
+  so nice you're back
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://daybreaktexas.github.io" # the base hostname & protocol for your site
+twitter_username: d
+github_username:  daybreaktexas
 
 # paging
 paginate: 10
